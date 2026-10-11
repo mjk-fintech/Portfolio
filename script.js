@@ -16,7 +16,7 @@
     countryCode: '92',                  // Pakistan: the leading 0 is dropped and 92 is added
     whatsappMessage: 'Hi Jahanzaib! I visited your portfolio and would like to connect with you.',
     email: 'thejahanzaibk@gmail.com',
-    github: 'https://github.com/mjk-fintech/Portfolio',
+    github: 'https://https://github.com/mjk-fintech/Portfolio',
     typingWords: ['FinTech Student', 'Technology Enthusiast', 'Aspiring Innovator', 'Lifelong Learner']
   };
 
